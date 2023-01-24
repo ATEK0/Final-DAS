@@ -1,3 +1,0 @@
-atualizar o relatorio com a release
-1 hotfix efetuado utilizando a gestão de branchs do gitflow
-rever o relatório todo e efetuar melhorias
